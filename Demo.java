@@ -1,8 +1,7 @@
-ass demo(){
+class demo(){
 
-	psvm(){
-		sop("git demo")
+public static void main (){
+		System.out.println("git demo");
 
 		}
-
 }
